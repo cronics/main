@@ -1,0 +1,6 @@
+[submodule "main_sub1"]
+	path = main_sub1
+	url = https://github.com/cronics/sub1.git
+[submodule "main_sub2"]
+	path = main_sub2
+	url = https://github.com/cronics/sub2.git
